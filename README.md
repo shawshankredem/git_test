@@ -1,0 +1,1 @@
+This is SashaSpechts first git project!
